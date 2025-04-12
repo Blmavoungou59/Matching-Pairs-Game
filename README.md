@@ -1,4 +1,4 @@
-# M# Matching Pairs Game
+# Matching Pairs Game
 
 This is a beginner-friendly memory game where the player tries to find matching pairs on a hidden board.
 
